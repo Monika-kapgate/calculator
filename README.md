@@ -11,11 +11,12 @@ Percentage calculation
 Clear button (AC)
 Delete button (DEL)
 <br>
+
 Technologies Used
 <br>
 
-HTML,
-CSS,
+HTML<br>
+CSS<br>
 JavaScript
 <br>
 
